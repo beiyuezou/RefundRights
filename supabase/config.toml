@@ -1,0 +1,4 @@
+project_id = "xsumtpafvlfsygbutwtx"
+
+[functions.analyze-dispute]
+verify_jwt = false

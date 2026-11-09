@@ -1,0 +1,1 @@
+DELETE FROM public.ota_rules_cache WHERE ota_name IN ('trip','sg_cccs');

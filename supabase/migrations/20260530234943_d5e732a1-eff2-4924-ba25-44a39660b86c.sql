@@ -1,0 +1,1 @@
+DELETE FROM public.rate_limit_events WHERE user_id = '66505266-61c1-4080-b390-1ad37da6076c' AND action = 'analyze' AND created_at > now() - interval '1 hour';

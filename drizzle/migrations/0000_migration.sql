@@ -1,0 +1,1 @@
+ALTER TABLE public.dispute_analyses ADD COLUMN IF NOT EXISTS sources jsonb NOT NULL DEFAULT '[]'::jsonb;
