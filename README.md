@@ -157,4 +157,4 @@ RefundRights provides AI-generated information, not legal advice. Example cases 
 
 This project is licensed under the [MIT License](LICENSE).
 
-Copyright © 2026 Beiyuezou
+Copyright © 2026 beiyuezou
